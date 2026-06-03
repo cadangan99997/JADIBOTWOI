@@ -5,7 +5,10 @@
     "isContact": true,
     "name": "Wily Bot",
     "phoneNumber": "6289688206739@s.whatsapp.net",
-    "notify": "Wily"
+    "notify": "Wily",
+    "verifiedName": "Wily",
+    "ephemeralDuration": 86400,
+    "ephemeralSettingTimestamp": 1778825463
   },
   "6283117656695@s.whatsapp.net": {
     "isContact": true,
@@ -647,11 +650,12 @@
     "phoneNumber": "6285819452096@s.whatsapp.net"
   },
   "6285545069113@s.whatsapp.net": {
-    "isContact": true,
-    "id": "6285545069113@s.whatsapp.net",
-    "name": "celcia (AL)",
+    "id": "28016759595188@lid",
     "lid": "28016759595188@lid",
-    "phoneNumber": "6285545069113@s.whatsapp.net"
+    "isContact": true,
+    "name": "celcia (AL)",
+    "phoneNumber": "6285545069113@s.whatsapp.net",
+    "notify": "celcia"
   },
   "6283851724460@s.whatsapp.net": {
     "isContact": true,
@@ -1355,11 +1359,12 @@
     "phoneNumber": "628983657065@s.whatsapp.net"
   },
   "6285138011636@s.whatsapp.net": {
-    "isContact": true,
-    "id": "6285138011636@s.whatsapp.net",
-    "name": "Capa(AL)",
+    "id": "134738106925275@lid",
     "lid": "134738106925275@lid",
-    "phoneNumber": "6285138011636@s.whatsapp.net"
+    "isContact": true,
+    "name": "Capa(AL)",
+    "phoneNumber": "6285138011636@s.whatsapp.net",
+    "notify": "capaiyyee"
   },
   "6283186969846@s.whatsapp.net": {
     "isContact": true,
@@ -1743,9 +1748,9 @@
     "phoneNumber": "6285600414309@s.whatsapp.net"
   },
   "6283865683424@s.whatsapp.net": {
-    "isContact": true,
-    "id": "6283865683424@s.whatsapp.net",
+    "id": "186427870560354@lid",
     "lid": "186427870560354@lid",
+    "isContact": true,
     "name": "Ocha(AL)",
     "phoneNumber": "6283865683424@s.whatsapp.net",
     "notify": "ocha🫧"
@@ -2596,9 +2601,9 @@
     "phoneNumber": "6285150590452@s.whatsapp.net"
   },
   "6285168193692@s.whatsapp.net": {
-    "isContact": true,
-    "id": "6285168193692@s.whatsapp.net",
+    "id": "83245777563797@lid",
     "lid": "83245777563797@lid",
+    "isContact": true,
     "name": "Nitta",
     "phoneNumber": "6285168193692@s.whatsapp.net",
     "notify": "yaeeeeeeeeeeeeeeeeeeeeeee"
@@ -3054,7 +3059,9 @@
     "id": "6285179826307@s.whatsapp.net",
     "name": "Bot",
     "lid": "221912957513786@lid",
-    "phoneNumber": "6285179826307@s.whatsapp.net"
+    "phoneNumber": "6285179826307@s.whatsapp.net",
+    "ephemeralDuration": 0,
+    "ephemeralSettingTimestamp": 1773497046
   },
   "6287734184073@s.whatsapp.net": {
     "isContact": true,
@@ -3288,11 +3295,13 @@
     "phoneNumber": "6288807288092@s.whatsapp.net"
   },
   "6285731267061@s.whatsapp.net": {
-    "isContact": true,
-    "id": "6285731267061@s.whatsapp.net",
-    "name": "Shakaisme (Seleb ig)",
+    "id": "55851855433893@lid",
     "lid": "55851855433893@lid",
-    "phoneNumber": "6285731267061@s.whatsapp.net"
+    "isContact": true,
+    "name": "Shakaisme (Seleb ig)",
+    "phoneNumber": "6285731267061@s.whatsapp.net",
+    "notify": "shakaisme",
+    "verifiedName": "shakaisme"
   },
   "6285792747094@s.whatsapp.net": {
     "isContact": true,
@@ -4086,5 +4095,26 @@
     "id": "205501770022941@lid",
     "lid": "205501770022941@lid",
     "notify": "Morenoo"
+  },
+  "6287796194539@s.whatsapp.net": {
+    "id": "148258479439951@lid",
+    "lid": "148258479439951@lid",
+    "notify": "asta."
+  },
+  "6289681008411@s.whatsapp.net": {
+    "id": "274255723921630@lid",
+    "lid": "274255723921630@lid",
+    "notify": "Hen V1"
+  },
+  "6285700996045@s.whatsapp.net": {
+    "id": "10436871233676@lid",
+    "lid": "10436871233676@lid",
+    "imgUrl": "changed",
+    "notify": "yaeeeeeeeeeeeeeeeeeeeeeee"
+  },
+  "6287852436761@s.whatsapp.net": {
+    "id": "104638875459767@lid",
+    "lid": "104638875459767@lid",
+    "notify": "Ditta"
   }
 }
