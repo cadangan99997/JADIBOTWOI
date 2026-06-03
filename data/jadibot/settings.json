@@ -1,0 +1,16 @@
+{
+  "6285188150676": {
+    "antidel": {
+      "enabled": true,
+      "privateChat": true,
+      "groupChat": true,
+      "sendTo": "chat"
+    },
+    "updatedAt": 1780304353613,
+    "anticall": {
+      "enabled": true,
+      "message": "",
+      "whitelist": []
+    }
+  }
+}
